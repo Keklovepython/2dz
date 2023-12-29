@@ -1,0 +1,11 @@
+body {
+    background: rgb(65, 105, 225);
+    margin-top: 100px;
+    text-align: center;
+}
+
+p {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 2.25em;
+}
+
